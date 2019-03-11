@@ -35,3 +35,45 @@ p {
     transform: rotate(360deg);
   }
 }
+
+span {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  padding: 10px 10px 10px 10px;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  padding: 10px 10px 10px 10px;
+}
+
+.column-header {
+  background-color: rgb(77, 78, 79);
+  /*height: 100px;*/
+  height: 10vh;
+  display:flex;
+  align-items: center; /* Vertical center alignment */
+  justify-content: center; /* Horizontal center alignment */
+}
+
+.main-column {
+  background-color: rgb(77, 78, 79);
+  /*height: 100px;*/
+  width: 80vh;
+  height: 60vh;
+}
+
+.main-column > textarea {
+  width: inherit;
+  height: inherit;
+}
