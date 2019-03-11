@@ -44,6 +44,7 @@ class Clock extends Component {
     return (
       <div>
         <p>{this.state.alarm}</p>
+        <p>Hello</p>
         <p>{this.state.time.toLocaleTimeString()}</p>
         <button onClick={this.handleClick}>{this.state.wakeUpTime}</button>
       {/*<div> id="test" onClick={this.handleClick}>{this.state.wakeUpTime} </div>*/}
