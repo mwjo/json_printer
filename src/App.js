@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 
-var obj = [{
+/*var obj = [{
   "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#Collection(driveItem)",
   "@odata.nextLink": "https://graph.microsoft.com/v1.0/me/drive/recent?$skiptoken=s!MjAwOzFkMjUxOThkLWE3OGMtNDhmMy04YWQ3LWYwYmYyMTViZDY1OQ",
   "value": [
@@ -213,9 +213,9 @@ var obj = [{
           }
       }
     ]
-  }];
+  }];*/
 
-/*var obj = [
+var obj = [
   {
     "_id": "5ca0e17e572868672249d433",
     "guid": "91b011e8-0e44-43f8-bb79-a418a30615d1",
@@ -240,7 +240,7 @@ var obj = [{
       "tempor"
     ]
   }
-];*/
+];
 
 
 class Clock extends Component {
