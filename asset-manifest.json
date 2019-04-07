@@ -1,13 +1,13 @@
 {
-  "main.css": "/json_printer/static/css/main.bbe54051.chunk.css",
-  "main.js": "/json_printer/static/js/main.ed67101f.chunk.js",
-  "main.js.map": "/json_printer/static/js/main.ed67101f.chunk.js.map",
+  "main.css": "/json_printer/static/css/main.9c76b82a.chunk.css",
+  "main.js": "/json_printer/static/js/main.87326452.chunk.js",
+  "main.js.map": "/json_printer/static/js/main.87326452.chunk.js.map",
   "runtime~main.js": "/json_printer/static/js/runtime~main.f7c3cee5.js",
   "runtime~main.js.map": "/json_printer/static/js/runtime~main.f7c3cee5.js.map",
   "static/js/2.ec62849d.chunk.js": "/json_printer/static/js/2.ec62849d.chunk.js",
   "static/js/2.ec62849d.chunk.js.map": "/json_printer/static/js/2.ec62849d.chunk.js.map",
   "index.html": "/json_printer/index.html",
-  "precache-manifest.16583018bf293127b73bf24aa3e21f69.js": "/json_printer/precache-manifest.16583018bf293127b73bf24aa3e21f69.js",
+  "precache-manifest.21e0df1e5b441dd984c5096af74a9df7.js": "/json_printer/precache-manifest.21e0df1e5b441dd984c5096af74a9df7.js",
   "service-worker.js": "/json_printer/service-worker.js",
-  "static/css/main.bbe54051.chunk.css.map": "/json_printer/static/css/main.bbe54051.chunk.css.map"
+  "static/css/main.9c76b82a.chunk.css.map": "/json_printer/static/css/main.9c76b82a.chunk.css.map"
 }
